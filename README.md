@@ -1,4 +1,3 @@
-```markdown
 # Vectors in C
 
 This project provides a dynamic array (vector) implementation in C. It demonstrates dynamic memory allocation and resizing techniques.
